@@ -6,7 +6,7 @@
     "feed_url": "https://whateverbox.github.io/whateverbox.github.io/feed.json",
     "user_comment": "",
     "author": {
-        "name": "Paul Amazona"
+        "name": "whatevergeek"
     },
     "items": [
         {
@@ -16,7 +16,7 @@
             "summary": "This is a first post.",
             "content_html": "<p>This is a first post.</p>",
             "author": {
-                "name": "Paul Amazona"
+                "name": "whatevergeek"
             },
             "tags": [
             ],
