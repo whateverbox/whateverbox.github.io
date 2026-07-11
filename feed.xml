@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>whateverbox</title>
-    <link href="https://whateverbox.github.io/whateverbox.github.io/feed.xml" rel="self" />
-    <link href="https://whateverbox.github.io/whateverbox.github.io" />
+    <link href="https://whateverbox.github.io/feed.xml" rel="self" />
+    <link href="https://whateverbox.github.io" />
     <updated>2026-07-11T22:34:15+08:00</updated>
     <author>
         <name>whatevergeek</name>
     </author>
-    <id>https://whateverbox.github.io/whateverbox.github.io</id>
+    <id>https://whateverbox.github.io</id>
 
     <entry>
         <title>First Post</title>
         <author>
             <name>whatevergeek</name>
         </author>
-        <link href="https://whateverbox.github.io/whateverbox.github.io/first-post.html"/>
-        <id>https://whateverbox.github.io/whateverbox.github.io/first-post.html</id>
+        <link href="https://whateverbox.github.io/first-post.html"/>
+        <id>https://whateverbox.github.io/first-post.html</id>
 
         <updated>2026-07-11T22:34:15+08:00</updated>
             <summary type="html">
