@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "whateverbox",
+    "description": "",
+    "home_page_url": "https://whateverbox.github.io/whateverbox.github.io",
+    "feed_url": "https://whateverbox.github.io/whateverbox.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Paul Amazona"
+    },
+    "items": [
+        {
+            "id": "https://whateverbox.github.io/whateverbox.github.io/first-post.html",
+            "url": "https://whateverbox.github.io/whateverbox.github.io/first-post.html",
+            "title": "First Post",
+            "summary": "This is a first post.",
+            "content_html": "<p>This is a first post.</p>",
+            "author": {
+                "name": "Paul Amazona"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-07-11T22:34:15+08:00",
+            "date_modified": "2026-07-11T22:34:15+08:00"
+        }
+    ]
+}

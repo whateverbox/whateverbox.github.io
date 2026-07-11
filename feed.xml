@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>whateverbox</title>
+    <link href="https://whateverbox.github.io/whateverbox.github.io/feed.xml" rel="self" />
+    <link href="https://whateverbox.github.io/whateverbox.github.io" />
+    <updated>2026-07-11T22:34:15+08:00</updated>
+    <author>
+        <name>Paul Amazona</name>
+    </author>
+    <id>https://whateverbox.github.io/whateverbox.github.io</id>
+
+    <entry>
+        <title>First Post</title>
+        <author>
+            <name>Paul Amazona</name>
+        </author>
+        <link href="https://whateverbox.github.io/whateverbox.github.io/first-post.html"/>
+        <id>https://whateverbox.github.io/whateverbox.github.io/first-post.html</id>
+
+        <updated>2026-07-11T22:34:15+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    This is a first post.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is a first post.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
