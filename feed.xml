@@ -3,7 +3,7 @@
     <title>whateverbox</title>
     <link href="https://whateverbox.github.io/feed.xml" rel="self" />
     <link href="https://whateverbox.github.io" />
-    <updated>2026-07-11T22:34:15+08:00</updated>
+    <updated>2026-07-12T00:44:06+08:00</updated>
     <author>
         <name>whatevergeek</name>
     </author>
@@ -20,12 +20,13 @@
         <updated>2026-07-11T22:34:15+08:00</updated>
             <summary type="html">
                 <![CDATA[
-                    This is a first post.
+                    This is a first post. Update 123.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>This is a first post.</p>
+                <p>This is a first post.
+Update 123.</p>
             ]]>
         </content>
     </entry>

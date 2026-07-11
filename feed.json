@@ -13,15 +13,15 @@
             "id": "https://whateverbox.github.io/first-post.html",
             "url": "https://whateverbox.github.io/first-post.html",
             "title": "First Post",
-            "summary": "This is a first post.",
-            "content_html": "<p>This is a first post.</p>",
+            "summary": "This is a first post. Update 123.",
+            "content_html": "<p>This is a first post.\nUpdate 123.</p>",
             "author": {
                 "name": "whatevergeek"
             },
             "tags": [
             ],
             "date_published": "2026-07-11T22:34:15+08:00",
-            "date_modified": "2026-07-11T22:34:15+08:00"
+            "date_modified": "2026-07-12T00:44:06+08:00"
         }
     ]
 }
